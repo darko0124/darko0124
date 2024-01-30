@@ -20,5 +20,5 @@
 
 ✨ Contact :
 
-  If you want to contact me, send me an email ! ☺️
+  If you want to contact me, send me an email to d.iv.chobanov@gmail.com ! ☺️
  
