@@ -12,7 +12,7 @@
 
 📦 Toolbox :
 
-   Version Control: Git Github
+   Version Control: Git, Github
 
    Backend Development: Python
 
