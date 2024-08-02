@@ -6,7 +6,7 @@
 
   Currently working on developing my skills, so i can write efficent and clear code. ⚙️
 
-  In my free time i'm usually following a course or trying to solve a problem. 🎓
+  In my free time i'm usually following a course or working on developing solutions. 🎓
 
   My main hobby is bodybuilding. 🏋️ 
 
@@ -16,7 +16,7 @@
 
    Backend Development: Python
 
-   Others : SQL, PostgreSQL, MySQL
+   Others : SQL, PostgreSQL, MySQL, Google Looker Studio, BigQuery, PowerBi
 
 ✨ Contact :
 
