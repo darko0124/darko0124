@@ -6,7 +6,7 @@
 
   Currently working on developing my skills, so i can write efficent and clear code. ⚙️
 
-  In my free time i'm usually following a course or working on developing solutions. 🎓
+  In my free time I'm usually following a course or working on developing solutions. 🎓
 
   My hobby is bodybuilding. 🏋️ 
 
