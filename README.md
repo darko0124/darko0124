@@ -8,7 +8,7 @@
 
   In my free time i'm usually following a course or working on developing solutions. 🎓
 
-  My main hobby is bodybuilding. 🏋️ 
+  My hobby is bodybuilding. 🏋️ 
 
 📦 Toolbox :
 
