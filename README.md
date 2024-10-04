@@ -4,7 +4,7 @@
 
   I'm looking for an opportunity to further develop my skills in the Data field. 📊
 
-  Currently working on developing my skills, so i can write clear and efficent code. ⚙️
+  Currently working on further developing my skills, so i can write clear and efficent code. ⚙️
 
   In my free time I'm usually following a course or working on developing solutions. 🎓
 
