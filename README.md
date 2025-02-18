@@ -16,7 +16,7 @@
 
    Backend Development: Python
 
-   Others : SQL, PostgreSQL, MySQL, Google Looker Studio, GCP, BigQuery, PowerBi
+   Others : SQL, PostgreSQL, MySQL, Google Looker Studio, GCP, BigQuery, PowerBi, Ubuntu, Docker
 
 ✨ Contact :
 
